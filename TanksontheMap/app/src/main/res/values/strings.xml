@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tanks on the Map</string>
+    <string name="banner">Tanks on the Map</string>
+    <string name="bannerDiscription">Исторический танковый навигатор</string>
+    <string name="hint_email">Эл.почта</string>
+    <string name="password">Пароль</string>
+    <string name="signIn">Войти</string>
+    <string name="forgotPassword">Забыли пароль?</string>
+    <string name="register">Регистрация</string>
+    <string name="fullName">Полное имя</string>
+    <string name="age">Возраст</string>
+    <string name="registerUser">Зарегистрироваться</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
